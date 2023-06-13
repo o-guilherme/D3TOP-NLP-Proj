@@ -4,7 +4,7 @@ data_antigo/
 all_metadata.csv
 backups/
 misc/
-tabelas CNJ/
+tabelas_CNJ/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
